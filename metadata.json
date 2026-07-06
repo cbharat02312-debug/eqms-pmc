@@ -1,0 +1,8 @@
+{
+  "name": "Remix: eQMS Document Control",
+  "description": "Electronic Quality Management System for secure corporate document workflows (Prepare, Review, Approve) with electronic signatures and revision histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
